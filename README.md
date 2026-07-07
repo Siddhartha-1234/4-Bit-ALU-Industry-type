@@ -34,4 +34,3 @@ and let the control unit decide which flags to look at per opcode).
 =======
 # 4-Bit-ALU-Industry-type
 A 4-bit Arithmetic Logic Unit (ALU) built from scratch in Verilog. Includes a full adder, a 4-bit adder/subtractor, and a top-level ALU supporting 8 operations (ADD, SUB, AND, OR, XOR, NOR, SLT, PASS), each verified with its own testbench.
->>>>>>> ac33a2d0888c08712f9bb53af84a92377d2fab10
